@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "title": "GTA V",
+    "description": "Juego de acción y aventura",
+    "code": "GTAV001",
+    "price": 39.99,
+    "status": true,
+    "stock": 10,
+    "category": "Acción",
+    "thumbnails": ["img1.jpg"]
+  }
+]

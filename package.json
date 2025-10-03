@@ -1,0 +1,21 @@
+{
+  "name": "backend-i",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xDiego21/backend1-entrega1-nu-ez.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/xDiego21/backend1-entrega1-nu-ez/issues"
+  },
+  "homepage": "https://github.com/xDiego21/backend1-entrega1-nu-ez#readme"
+}
